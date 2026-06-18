@@ -2,7 +2,7 @@
 
 A simple, intuitive web-based tool designed for farmers, landowners, and real estate professionals to quickly convert between common land measurement units.
 
-![Land Area Converter Screenshot](https://via.placeholder.com/800x400?text=Land+Area+Converter+Preview)
+<img width="1774" height="951" alt="image" src="https://github.com/user-attachments/assets/743cdefa-87ca-4f96-9d66-5012969f820f" />
 
 ##  Features
 
