@@ -118,19 +118,3 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📧 Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Built with vanilla HTML, CSS, and JavaScript – no external dependencies
-- Designed with farmers and rural communities in mind
-- Iconography uses standard emojis for universal compatibility
-
----
-
-**Made with ❤️ for farmers and land stewards everywhere**
