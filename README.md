@@ -95,11 +95,11 @@ background: #5b7a4b;  /* Farm green accent */
 
 ## 🌐 Browser Support
 
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Mobile browsers (iOS Safari, Android Chrome)
+-  Chrome (latest)
+-  Firefox (latest)
+-  Safari (latest)
+-  Edge (latest)
+-  Mobile browsers (iOS Safari, Android Chrome)
 
 ##  License
 
