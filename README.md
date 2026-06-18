@@ -47,7 +47,7 @@ open index.html
 ### Option 2: Quick Start
 Copy the entire `index.html` file and open it directly in any modern web browser. No server or build process required.
 
-## 🧮 Conversion Logic
+## Conversion Logic
 
 The converter uses square meters as the base unit for all conversions:
 
