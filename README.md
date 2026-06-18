@@ -20,10 +20,6 @@ A simple, intuitive web-based tool designed for farmers, landowners, and real es
 - **Mobile Responsive** – Works seamlessly on desktop, tablet, and smartphone
 - **Clean UI** – Farmer-friendly design with clear visual hierarchy
 
-## Live Demo
-
-[View Live Demo](https://your-demo-link.com) *(Replace with your actual deployment link)*
-
 ## 🛠️ How to Use
 
 1. **Enter a value** in the "From" input field
