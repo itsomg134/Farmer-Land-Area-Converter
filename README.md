@@ -61,7 +61,7 @@ The converter uses square meters as the base unit for all conversions:
 
 All conversions happen in real-time as you type.
 
-## 🎨 Customization
+## Customization
 
 ### Adding New Units
 To add a new land measurement unit, modify the `UNIT_FACTORS` and `UNIT_LABELS` objects in the JavaScript section:
