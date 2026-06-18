@@ -101,11 +101,11 @@ background: #5b7a4b;  /* Farm green accent */
 - ✅ Edge (latest)
 - ✅ Mobile browsers (iOS Safari, Android Chrome)
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how you can help:
 
