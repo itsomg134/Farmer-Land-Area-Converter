@@ -93,7 +93,7 @@ background: linear-gradient(145deg, #f5f2e8 0%, #e8e0d0 100%);
 background: #5b7a4b;  /* Farm green accent */
 ```
 
-## 🌐 Browser Support
+##  Browser Support
 
 -  Chrome (latest)
 -  Firefox (latest)
