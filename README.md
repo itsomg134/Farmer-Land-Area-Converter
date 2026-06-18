@@ -20,7 +20,7 @@ A simple, intuitive web-based tool designed for farmers, landowners, and real es
 - **Mobile Responsive** – Works seamlessly on desktop, tablet, and smartphone
 - **Clean UI** – Farmer-friendly design with clear visual hierarchy
 
-## 🛠️ How to Use
+##  How to Use
 
 1. **Enter a value** in the "From" input field
 2. **Select units** by:
@@ -30,7 +30,7 @@ A simple, intuitive web-based tool designed for farmers, landowners, and real es
 4. **Use presets** for quick entry of common values
 5. **Keyboard shortcut**: Press `S` to swap units without lifting your hands from the keyboard
 
-## 📦 Installation
+##  Installation
 
 ### Option 1: Direct Download
 ```bash
