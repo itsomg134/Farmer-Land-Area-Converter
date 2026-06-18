@@ -114,3 +114,16 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+##  Contact
+
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
